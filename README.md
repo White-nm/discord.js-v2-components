@@ -243,6 +243,13 @@ module.exports = {
 
 ---
 
+# Example Previews:
+
+![ExamplePreview1](https://repository-images.githubusercontent.com/1038141980/c0761e9e-aebb-4ed6-885c-f74a30ffc3fd)
+
+---
+
+
 ## 5. Resources
 
 * [Discord Developer Docs — Components Overview](https://discord.com/developers/docs/components/overview)
