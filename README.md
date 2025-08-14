@@ -1,3 +1,7 @@
+# Created by ZarCodeX — If you find this helpful, please leave a ⭐ on the repo!
+
+---
+
 # Discord Components V2 Guide
 
 Discord's **Components V2** system allows you to create rich, interactive, and visually appealing messages entirely with components — no embeds required.  
